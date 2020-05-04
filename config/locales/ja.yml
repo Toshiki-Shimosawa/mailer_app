@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    attributes:
+      inquiry:
+        name: "来店する方の代表者名"
+        email: "メールアドレス"
+        relationship: "ご来店社数"
+        content: "メッセージ（任意）"
+
